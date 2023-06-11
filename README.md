@@ -291,14 +291,14 @@ export default App;
 ![image](https://github.com/SdMdZahi7/EXP-07---IMAGE-CAROUSEL/assets/94187572/62e8f37c-f712-415f-8f59-907c9f7a8ca3)
 
 
-SLIDE 2:
+### SLIDE 2:
 ![image](https://github.com/SdMdZahi7/EXP-07---IMAGE-CAROUSEL/assets/94187572/8161af76-e29d-4fcd-9cc7-f066a35c7915)
 
 
-SLIDE 3:
+### SLIDE 3:
 ![image](https://github.com/SdMdZahi7/EXP-07---IMAGE-CAROUSEL/assets/94187572/5bf2ef7a-f039-4a85-96ea-5872de83980b)
 
 
-RESULT:
+## RESULT:
 So, an image carousel is created using hooks.
 
